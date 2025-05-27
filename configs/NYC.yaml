@@ -1,0 +1,4 @@
+c: 1.0
+num_dim: 64
+num_negs: 5
+dropout: 0.3
