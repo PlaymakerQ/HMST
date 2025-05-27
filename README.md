@@ -37,9 +37,9 @@ manifolds/
 2. After activating the environment, the experiment code can be run directly using:
 
 ```
-python main.py --data_name NYC  # run HMPRec on NYC dataset
-python main.py --data_name TKY  # run HMPRec on TKY dataset
-python main.py --data_name CA  # run HMPRec on CA dataset
+python main.py --data_name NYC  # run HMST on NYC dataset
+python main.py --data_name TKY  # run HMST on TKY dataset
+python main.py --data_name CA  # run HMST on CA dataset
 ```
 
 All configurations for each dataset can be found in `.yaml` files in `configs`.
