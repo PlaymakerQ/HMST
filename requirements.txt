@@ -1,0 +1,9 @@
+geoopt==0.5.0
+matplotlib==3.10.3
+numpy==2.2.6
+pandas==2.2.3
+PyYAML==6.0.2
+PyYAML==6.0.2
+scikit_learn==1.6.1
+torch==2.4.1+cu124
+tqdm==4.66.5
