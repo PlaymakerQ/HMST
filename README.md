@@ -1,6 +1,6 @@
 # HMST
 
-Code for paper **Hyperbolic Multi-semantic Transition for Next POI Recommendation** (WWW 2025 workshop) [[link]][https://dl.acm.org/doi/abs/10.1145/3701716.3717802]
+Code for paper **Hyperbolic Multi-semantic Transition for Next POI Recommendation** (WWW 2025 workshop) [link](https://dl.acm.org/doi/abs/10.1145/3701716.3717802)
 
 **Abstract**: The next Point-of-Interest (POI) recommendation has gained significant research interest, focusing on learning users’ mobility patterns from sparse check-in data. Existing POI recommendation models face two main constraints. First, most models are based on Euclidean space and struggle with capturing the inherent hierarchical structures in historical check-ins. Second, various transition semantics in both one-hop and sequential transitions cannot be properly utilized to understand user movement trends. To overcome the above limitations, we introduce rotation operations in hyperbolic space, enabling the joint modeling of hierarchical structures and various transition semantics to effectively capture complex mobility patterns. Specifically, a novel hyperbolic rotation-based recommendation model HMST is developed for the next POI recommendation. To our knowledge, this is the first work to explore the hyperbolic rotations for the next POI recommendation tasks. Extensive experiments on three real-world datasets demonstrate the superiority of our proposed approach over the various state-of-the-art baselines.
 
